@@ -3,7 +3,9 @@
 | # | Title | Description | Solution |
 | --- | --- | --- | --- |
 | 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js) |
+| --- | --- | --- | --- |
 | 7 | Reverse Integer | Given a 32-bit signed integer, reverse digits of an integer. | [Solution](reverse_integer.js) |
+| --- | --- | --- | --- |
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 665 | Non-decreasing Array | Given an array nums with n integers, your task is to check if it could become non-decreasing by modifying at most 1 element. We define an array is non-decreasing if nums[i] <= nums[i + 1] holds for every i (0-based) such that (0 <= i <= n - 2). | [Solution](non_decreasing_array.js) |
