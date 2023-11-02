@@ -7,6 +7,7 @@
 | 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js) |
 | 7 | Reverse Integer | Given a 32-bit signed integer, reverse digits of an integer. | [Solution](reverse_integer.js) |
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
+| 9 | Palindrome Number | Given an integer x, return true if x is a palindrome, and false otherwise. | [Solution](palindrome.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
