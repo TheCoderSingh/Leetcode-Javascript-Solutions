@@ -9,6 +9,7 @@
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
 | 9 | Palindrome Number | Given an integer x, return true if x is a palindrome, and false otherwise. | [Solution](palindrome.js) |
 | 12 | Integer to Roman | Given an integer, convert it to a roman numeral. | [Solution](integer_to_roman.js) |
+| 13 | Roman to Integer | Given a roman numeral, convert it to an integer. | [Solution](roman_to_integer.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
