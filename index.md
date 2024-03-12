@@ -1,4 +1,4 @@
-# LeetCode Solved Problems
+# LeetCode Solutions
 
 | # | Title | Description | Solution |
 | --- | --- | --- | --- |
