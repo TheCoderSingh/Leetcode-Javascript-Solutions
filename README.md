@@ -1,6 +1,6 @@
 # LeetCode Solved Problems
 
-### Go to https://thecodersingh.github.io/LeetCode-Javascript-Solutions/
+### Go to https://thecodersingh.github.io/Leetcode-Javascript-Solutions/
 
 | # | Title | Description | Solution |
 | --- | --- | --- | --- |
