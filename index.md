@@ -4,7 +4,7 @@
 
 | # | Title | Description | Solution |
 | --- | --- | --- | --- |
-| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js) |
+| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js)
 | 7 | Reverse Integer | Given a 32-bit signed integer, reverse digits of an integer. | [Solution](reverse_integer.js) |
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
 | 9 | Palindrome Number | Given an integer x, return true if x is a palindrome, and false otherwise. | [Solution](palindrome.js) |
