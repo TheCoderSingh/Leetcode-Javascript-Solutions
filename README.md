@@ -14,6 +14,7 @@
 | 20 | Valid Parentheses | Given a string, determine if the input string is valid. | [Solution](valid_parentheses.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
+| 104 | Given the root of a binary tree, return its maximum depth. | [Solution](maximum_depth_binary_tree.js) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
 | 344 | Reverse String | Write a function that reverses a string. The input string is given as an array of characters s. | [Solution](reverse_string.js) |
 | 595 | Big Countries | A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million. Write a SQL solution to output big countries' name, population and area. | [Solution](big_countries.sql) |
