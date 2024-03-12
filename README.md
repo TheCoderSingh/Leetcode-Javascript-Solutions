@@ -17,6 +17,7 @@
 | 104 | Maximum Depth of Binary Tree | Given the root of a binary tree, return its maximum depth. | [Solution](maximum_depth_binary_tree.js) |
 | 175 | Combine Two Tables | Report the first name, last name, city, and state of each person in the table. | [Solution](combine_tables.sql) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
+| 258 | Add Digits | Given an integer, repeatedly add all its digits until the result has only one digit. | [Solution](add_digits.js) |
 | 344 | Reverse String | Write a function that reverses a string. The input string is given as an array of characters s. | [Solution](reverse_string.js) |
 | 595 | Big Countries | A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million. Write a SQL solution to output big countries' name, population and area. | [Solution](big_countries.sql) |
 | 620 | Not Boring Movies | Please write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'. Order the result by rating.| [Solution](not_boring_movies.sql) |
