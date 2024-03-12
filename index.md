@@ -1,10 +1,8 @@
 # LeetCode Solved Problems
 
-### Go to https://thecodersingh.github.io/Leetcode-Javascript-Solutions/
-
-| # | Title | Description | Solution
-| --- | --- | --- | ---
-| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js)
+| # | Title | Description | Solution |
+| --- | --- | --- | --- |
+| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js) |
 | 7 | Reverse Integer | Given a 32-bit signed integer, reverse digits of an integer. | [Solution](reverse_integer.js) |
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
 | 9 | Palindrome Number | Given an integer x, return true if x is a palindrome, and false otherwise. | [Solution](palindrome.js) |
@@ -40,4 +38,4 @@
 | 1512 | Number of Good Pairs | Given an array of integers nums. A pair (i,j) is called good if nums[i] == nums[j] and i < j. Return the number of good pairs. | [Solution](number_good_pairs.js) |
 | 1528 | Shuffle String | Given a string s and an integer array indices of the same length. The string s will be shuffled such that the character at the ith position moves to indices[i] in the shuffled string. Return the shuffled string. | [Solution](shuffle_string.js) |
 | 1603 | Design Parking System | Design a parking system for a parking lot. The parking lot has three kinds of parking spaces: big, medium, and small, with a fixed number of slots for each size. | [Solution](parking_system.js) |
-| 1672 | Richest Customer Wealth | You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the ith customer has in the jth bank. Return the wealth that the richest customer has. A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth. | [Solution](richest_customer_wealth.js) | |
+| 1672 | Richest Customer Wealth | You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the ith customer has in the jth bank. Return the wealth that the richest customer has. A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth. | [Solution](richest_customer_wealth.js) |
