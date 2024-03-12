@@ -11,6 +11,7 @@
 | 12 | Integer to Roman | Given an integer, convert it to a roman numeral. | [Solution](integer_to_roman.js) |
 | 13 | Roman to Integer | Given a roman numeral, convert it to an integer. | [Solution](roman_to_integer.js) |
 | 14 | Longest Common Prefix | Find the longest common prefix string amongst an array of strings. | [Solution](longest_common_prefix.js) |
+| 20 | Valid Parenthesis | Given a string, determine if the input string is valid. | [Solution](valid_parenthesis.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
