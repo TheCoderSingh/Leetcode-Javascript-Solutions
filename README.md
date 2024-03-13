@@ -4,10 +4,10 @@
 
 | # | Title | Description | Solution |
 | --- | --- | --- | --- |
-| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. | [Solution](twosum.js) |
+| 1 | Two Sum | Given an array of integers, return indices of the two numbers such that they add up to a specific target. | [Solution](twosum.js) |
 | 7 | Reverse Integer | Given a 32-bit signed integer, reverse digits of an integer. | [Solution](reverse_integer.js) |
 | 8 | String to Integer (atoi) | Implement atoi which converts a string to an integer. | [Solution](string_to_integer.js) |
-| 9 | Palindrome Number | Given an integer x, return true if x is a palindrome, and false otherwise. | [Solution](palindrome.js) |
+| 9 | Palindrome Number | Given an integer, return true if it is a palindrome, and false otherwise. | [Solution](palindrome.js) |
 | 12 | Integer to Roman | Given an integer, convert it to a roman numeral. | [Solution](integer_to_roman.js) |
 | 13 | Roman to Integer | Given a roman numeral, convert it to an integer. | [Solution](roman_to_integer.js) |
 | 14 | Longest Common Prefix | Find the longest common prefix string amongst an array of strings. | [Solution](longest_common_prefix.js) |
@@ -18,16 +18,17 @@
 | 175 | Combine Two Tables | Report the first name, last name, city, and state of each person in the table. | [Solution](combine_tables.sql) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
 | 258 | Add Digits | Given an integer, repeatedly add all its digits until the result has only one digit. | [Solution](add_digits.js) |
+| 283 | Move Zeroes | Given an integer array, move all 0's to the end of it while maintaining the relative order of the non-zero elements. | [Solution](move_zeroes.js) |
 | 344 | Reverse String | Write a function that reverses a string. The input string is given as an array of characters s. | [Solution](reverse_string.js) |
 | 595 | Big Countries | A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million. Write a SQL solution to output big countries' name, population and area. | [Solution](big_countries.sql) |
-| 620 | Not Boring Movies | Please write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'. Order the result by rating.| [Solution](not_boring_movies.sql) |
-| 665 | Non-decreasing Array | Given an array nums with n integers, your task is to check if it could become non-decreasing by modifying at most 1 element. We define an array is non-decreasing if nums[i] <= nums[i + 1] holds for every i (0-based) such that (0 <= i <= n - 2). | [Solution](non_decreasing_array.js) |
+| 620 | Not Boring Movies | Write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'.| [Solution](not_boring_movies.sql) |
+| 665 | Non-decreasing Array | Given an array, check if it could become non-decreasing by modifying at most 1 element. | [Solution](non_decreasing_array.js) |
 | 709 | To Lower Case | Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase. | [Solution](to_lower_case.js) |
-| 771 | Jewels and Stones | You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels. The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A". | [Solution](jewels_and_stones.js) |
+| 771 | Jewels and Stones | You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels. | [Solution](jewels_and_stones.js) |
 | 922 | Sort Array By Parity II | Given an array of integers nums, half of the integers in nums are odd, and the other half are even. Sort the array so that whenever nums[i] is odd, i is odd, and whenever nums[i] is even, i is even. Return any answer array that satisfies this condition. | [Solution](sort_array_parity.js) |
-| 1108 | Defanging an IP Address | Given a valid (IPv4) IP address, return a defanged version of that IP address. A defanged IP address replaces every period "." with "[.]". | [Solution](ip_defanging.js) |
-| 1207 | Unique Number of Occurrences | Given an array of integers arr, write a function that returns true if and only if the number of occurrences of each value in the array is unique. | [Solution](unique_occurrences.js) |
-| 1281 | Subtract the Product and Sum of Digits of an Integer | Given an integer number n, return the difference between the product of its digits and the sum of its digits. | [Solution](subtract_product_and_sum_integer.js) |
+| 1108 | Defanging an IP Address | Given a valid IP address, return a defanged version of that IP address. | [Solution](ip_defanging.js) |
+| 1207 | Unique Number of Occurrences | Given an array of integers, write a function that returns true if and only if the number of occurrences of each value in the array is unique. | [Solution](unique_occurrences.js) |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Given an integer, return the difference between the product of its digits and the sum of its digits. | [Solution](subtract_product_and_sum_integer.js) |
 | 1295 | Numbers with Even Number of Digits | Given an array nums of integers, return how many of them contain an even number of digits. | [Solution](numbers_even_number_of_digits.js) |
 | 1313 | Decompress Run-Length Encoded List | We are given a list nums of integers representing a list compressed with run-length encoding. Consider each adjacent pair of elements [freq, val] = [nums[2*i], nums[2*i+1]] (with i >= 0).  For each such pair, there are freq elements with value val concatenated in a sublist. Concatenate all the sublists from left to right to generate the decompressed list. | [Solution](decompress_run_length_encoded_list.js) |
 | 1342 | Number of Steps to Reduce a Number to Zero | Given a non-negative integer num, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it. | [Solution](reduce_to_zero.js) |
