@@ -32,6 +32,7 @@
 | 922 | Sort Array By Parity II | Given an array of integers nums, half of the integers in nums are odd, and the other half are even. Sort the array so that whenever nums[i] is odd, i is odd, and whenever nums[i] is even, i is even. Return any answer array that satisfies this condition. | [Solution](sort_array_parity.js) |
 | 933 | Number of Recent Calls | Return the number of requests that have happened in the inclusive range | [Solution](number_of_recent_calls.js) |
 | 1108 | Defanging an IP Address | Given a valid IP address, return a defanged version of that IP address. | [Solution](ip_defanging.js) |
+| 1148 | Article Views I | Write a solution to find all the authors that viewed at least one of their own articles. Return the result table sorted by id in ascending order. | [Solution](article_views_1.sql) |
 | 1207 | Unique Number of Occurrences | Given an array of integers, write a function that returns true if and only if the number of occurrences of each value in the array is unique. | [Solution](unique_occurrences.js) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Given an integer, return the difference between the product of its digits and the sum of its digits. | [Solution](subtract_product_and_sum_integer.js) |
 | 1295 | Numbers with Even Number of Digits | Given an array nums of integers, return how many of them contain an even number of digits. | [Solution](numbers_even_number_of_digits.js) |
