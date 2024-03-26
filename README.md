@@ -51,3 +51,4 @@
 | 1683 | Invalid Tweets | Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15. | [Solution](invalid_tweets.sql)  |
 | 1757 | Recyclable and Low Fat Products | Write a solution to find the ids of products that are both low fat and recyclable. | [Solution](recyclable_low_fat.sql) |
 | 1920 | Build Array from Permutation | Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it. | [Solution](array_from_permutation.js)
+| 1929 | Concatenation of Array | Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed). Specifically, ans is the concatenation of two nums arrays. Return the array ans. | [Solution](concatenation_of_array.js) |
