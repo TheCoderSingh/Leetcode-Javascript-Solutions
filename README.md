@@ -56,3 +56,4 @@
 | 1929 | Concatenation of Array | Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed). Specifically, ans is the concatenation of two nums arrays. Return the array ans. | [Solution](concatenation_of_array.js) |
 | 2011 | Final Value of Variable After Performing Operations | Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations. | [Solution](final_value.js) |
 | 2114 | Maximum Number of Words Found in Sentences | Return the maximum number of words that appear in a single sentence. | [Solution](maximum_words.js) |
+| 2235 | Add Two Integers | Given two integers num1 and num2, return the sum of the two integers. | [Solution](add_two_integers.js) |
