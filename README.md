@@ -57,4 +57,4 @@
 | 2011 | Final Value of Variable After Performing Operations | Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations. | [Solution](final_value.js) |
 | 2114 | Maximum Number of Words Found in Sentences | Return the maximum number of words that appear in a single sentence. | [Solution](maximum_words.js) |
 | 2235 | Add Two Integers | Given two integers num1 and num2, return the sum of the two integers. | [Solution](add_two_integers.js) |
-| 2413 | Smallest Even Multiple | Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n. | [Solution](smallest_evenn_multiple.js)
+| 2413 | Smallest Even Multiple | Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n. | [Solution](smallest_even_multiple.js)
