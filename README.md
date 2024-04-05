@@ -58,4 +58,4 @@
 | 2114 | Maximum Number of Words Found in Sentences | Return the maximum number of words that appear in a single sentence. | [Solution](maximum_words.js) |
 | 2235 | Add Two Integers | Given two integers num1 and num2, return the sum of the two integers. | [Solution](add_two_integers.js) |
 | 2413 | Smallest Even Multiple | Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n. | [Solution](smallest_even_multiple.js)
-| 2469 | Convert the Temperature | You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit]. | [Solution](convert_the_temperature.js) |
+| 2469 | Convert the Temperature | You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit]. | [Solution](convert_temperature.js) |
