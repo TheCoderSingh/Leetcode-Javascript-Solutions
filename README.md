@@ -59,3 +59,4 @@
 | 2235 | Add Two Integers | Given two integers num1 and num2, return the sum of the two integers. | [Solution](add_two_integers.js) |
 | 2413 | Smallest Even Multiple | Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n. | [Solution](smallest_even_multiple.js)
 | 2469 | Convert the Temperature | You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit]. | [Solution](convert_temperature.js) |
+| 2703 | Return Length of Arguments Passed | Write a function argumentsLength that returns the count of arguments passed to it. | [Solution](length_of_arguments.js) |
