@@ -62,3 +62,4 @@
 | 2703 | Return Length of Arguments Passed | Write a function argumentsLength that returns the count of arguments passed to it. | [Solution](length_of_arguments.js) |
 | 2723 | Add Two Promises | Given two promises, return a new promise. The returned promise should resolve with the sum of the two numbers. | [Solution](add_two_promises.js) |
 | 2769 | Find the Maximum Achievable Number | Return the maximum possible achievable number. | [Solution](maximum_achievable.js) |
+| 2942 | Find Words Containing Character | You are given an array of strings words and a character. Return an array of indices representing the words that contain the character. | [Solution](words_containing_char.js) |
