@@ -16,6 +16,7 @@
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
 | 104 | Maximum Depth of Binary Tree | Given the root of a binary tree, return its maximum depth. | [Solution](maximum_depth_binary_tree.js) |
 | 125 | Valid Palindrome | Given a string s, return true if it is a palindrome, or false otherwise. | [Solution](valid_palindrome.js) |
+| 136 | Single Number | Given a non-empty array of integers nums, every element appears twice except for one. Find that single one. | [Solution](single_number.js) |
 | 141 | Linked List Cycle | Return true if there is a cycle in the linked list. Otherwise, return false. | [Solution](linked_list_cycle.js) |
 | 169 | Majority Element | Given an array nums of size n, return the majority element. | [Solution](majority_element.js) |
 | 175 | Combine Two Tables | Report the first name, last name, city, and state of each person in the table. | [Solution](combine_tables.sql) |
