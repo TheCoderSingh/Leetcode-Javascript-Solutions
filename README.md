@@ -21,6 +21,7 @@
 | 169 | Majority Element | Given an array nums of size n, return the majority element. | [Solution](majority_element.js) |
 | 175 | Combine Two Tables | Report the first name, last name, city, and state of each person in the table. | [Solution](combine_tables.sql) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
+| 242 | Valid Anagram | Given two strings s and t, return true if t is an anagram of s, and false otherwise. | [Solution](valid_anagram.js) |
 | 258 | Add Digits | Given an integer, repeatedly add all its digits until the result has only one digit. | [Solution](add_digits.js) |
 | 283 | Move Zeroes | Given an integer array, move all 0's to the end of it while maintaining the relative order of the non-zero elements. | [Solution](move_zeroes.js) |
 | 344 | Reverse String | Write a function that reverses a string. The input string is given as an array of characters s. | [Solution](reverse_string.js) |
