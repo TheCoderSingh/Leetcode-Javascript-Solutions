@@ -32,6 +32,7 @@
 | 595 | Big Countries | A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million. Write a SQL solution to output big countries' name, population and area. | [Solution](big_countries.sql) |
 | 620 | Not Boring Movies | Write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'.| [Solution](not_boring_movies.sql) |
 | 665 | Non-decreasing Array | Given an array, check if it could become non-decreasing by modifying at most 1 element. | [Solution](non_decreasing_array.js) |
+| 704 | Binary Search | Given an array of integers, write a function to search target in nums. | [Solution](binary_search.js) |
 | 709 | To Lower Case | Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase. | [Solution](to_lower_case.js) |
 | 771 | Jewels and Stones | You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels. | [Solution](jewels_and_stones.js) |
 | 922 | Sort Array By Parity II | Given an array of integers nums, half of the integers in nums are odd, and the other half are even. Sort the array so that whenever nums[i] is odd, i is odd, and whenever nums[i] is even, i is even. Return any answer array that satisfies this condition. | [Solution](sort_array_parity.js) |
