@@ -13,6 +13,7 @@
 | 14 | Longest Common Prefix | Find the longest common prefix string amongst an array of strings. | [Solution](longest_common_prefix.js) |
 | 20 | Valid Parentheses | Given a string, determine if the input string is valid. | [Solution](valid_parentheses.js) |
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
+| 66 | Plus One | Increment the large integer by one and return the resulting array of digits. | [Solution](plus_one.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
 | 104 | Maximum Depth of Binary Tree | Given the root of a binary tree, return its maximum depth. | [Solution](maximum_depth_binary_tree.js) |
 | 125 | Valid Palindrome | Given a string s, return true if it is a palindrome, or false otherwise. | [Solution](valid_palindrome.js) |
