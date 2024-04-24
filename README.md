@@ -19,6 +19,7 @@
 | 125 | Valid Palindrome | Given a string s, return true if it is a palindrome, or false otherwise. | [Solution](valid_palindrome.js) |
 | 136 | Single Number | Given a non-empty array of integers nums, every element appears twice except for one. Find that single one. | [Solution](single_number.js) |
 | 141 | Linked List Cycle | Return true if there is a cycle in the linked list. Otherwise, return false. | [Solution](linked_list_cycle.js) |
+| 167 | Two Sum II | Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Return the indices of the two numbers, added by one as an integer array of length 2. | [Solution](two_sum_ii.js) |
 | 169 | Majority Element | Given an array nums of size n, return the majority element. | [Solution](majority_element.js) |
 | 175 | Combine Two Tables | Report the first name, last name, city, and state of each person in the table. | [Solution](combine_tables.sql) |
 | 204 | Count Primes | Count the number of prime numbers less than a non-negative number, n. | [Solution](count_primes.js) |
