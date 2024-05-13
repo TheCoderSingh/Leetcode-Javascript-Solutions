@@ -15,6 +15,7 @@
 | 65 | Valid Number | Validate if a given string can be interpreted as a decimal number. | [Solution](valid_number.js) |
 | 66 | Plus One | Increment the large integer by one and return the resulting array of digits. | [Solution](plus_one.js) |
 | 94 | Binary Tree Inorder Traversal | Given the root of a binary tree, return the inorder traversal of its nodes' values. | [Solution](binary_tree_inorder_traversal.js) |
+| 100| Same Tree | Given the roots of two binary trees p and q, write a function to check if they are the same or not. | [Solution](same_tree.js) |
 | 104 | Maximum Depth of Binary Tree | Given the root of a binary tree, return its maximum depth. | [Solution](maximum_depth_binary_tree.js) |
 | 125 | Valid Palindrome | Given a string s, return true if it is a palindrome, or false otherwise. | [Solution](valid_palindrome.js) |
 | 136 | Single Number | Given a non-empty array of integers nums, every element appears twice except for one. Find that single one. | [Solution](single_number.js) |
