@@ -1,5 +1,5 @@
 # LeetCode Solved Problems
-# My JavaScript Solutions
+# My LeetCode Solutions
 ### Go to https://thecodersingh.github.io/Leetcode-Javascript-Solutions/
 
 | # | Title | Description | Solution |
